@@ -38,7 +38,7 @@ It supports ranked retrieval, Boolean search, and spelling correction using trad
 ├── test1.txt         # Example document
 ├── test2.txt         # Example document
 ├── MyTestIndex/      # Stores generated index files
-
+```
 ---
 
 ## ⚙️ How to Use
@@ -49,6 +49,7 @@ Run the following command to create the inverted index:
 
 ```bash
 python3 index.py
+```
 
 This reads .txt files in the current directory 
 
@@ -58,6 +59,7 @@ Run the query engine with:
 
 ```bash
 python3 search.py
+```
 
 You will be prompted to:
 
@@ -77,6 +79,7 @@ Choose output mode: (1) Brief  (2) Detailed
 
 docID: test2.txt
   "Fresh apple juice and orange slices are available."
+```
 
 ### 🧠 NLP Techniques Used
 Technique	｜ Description
