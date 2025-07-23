@@ -82,13 +82,13 @@ docID: test2.txt
 ```
 
 ### 🧠 NLP Techniques Used
-Technique	｜ Description
-------------------------------------------
-Tokenization ｜	Splits input into terms
-Stopword Removal ｜	Removes common words like "the", "is", etc.
-Stemming ｜	Applies Porter stemmer to reduce terms to root form
-Edit Distance ｜	Used for spelling correction
-Boolean Query Parsing ｜	Evaluates logic like AND, OR, NOT
+| Technique             | Description                                             |
+|-----------------------|---------------------------------------------------------|
+| Tokenization          | Splits input into terms                                 |
+| Stopword Removal      | Removes common words like "the", "is", etc.             |
+| Stemming              | Applies Porter stemmer to reduce terms to root form     |
+| Edit Distance         | Used for spelling correction                            |
+| Boolean Query Parsing | Evaluates logic like AND, OR, NOT                       |
 
 ---
 
@@ -107,11 +107,14 @@ Boolean Query Parsing ｜	Evaluates logic like AND, OR, NOT
 
 ## 📜 License
 This project is for academic learning purposes.
+
 For personal or research adaptation, feel free to fork and build upon it. 🚀
 
 ---
 
 ## 🙋‍♀️ Author
 Zhiqing (Bella) Pang
+
 UNSW Master of Information Technology
+
 📫 GitHub: @Bellapzq
